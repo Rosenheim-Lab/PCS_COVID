@@ -1,2 +1,2 @@
 #!/bin/bash
-unzip -o "chromedriver_linux64.zip.zip"
+unzip -o "chromedriver_linux64.zip"
