@@ -1,1 +1,11 @@
-
+name: PCS_COVID
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8.5
+  - bs4
+  - selenium
+  - time
+  - pandas
+  - pip:
+    - ipynb
