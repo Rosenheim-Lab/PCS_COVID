@@ -3,6 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - python=3.8.5
+  - matplotlib
   - bs4
   - selenium
   - time
