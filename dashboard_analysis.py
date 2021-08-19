@@ -17,7 +17,7 @@
 #
 # In this notebook, we analyze the data contained in Pinellas County School's COVID database. The tools include county wide totals, school by school analyses, and data visualization.
 #
-# This notebook analyzes the latest .csv data file scraped by the `dashboard_scrape.py` notebook.
+# This notebook analyzes the latest .csv data file scraped by the `dashboard_scrape.py` notebook. From this point on, we employ pandas and matplotlib to analyze and visualize the data. This notebook allows you to slice the data into various bins, by date, by school, by category, and shows some clever ways to plot the data compared to last year's data. 
 
 #Load packages
 import pandas as pd
@@ -129,6 +129,4 @@ ax.legend()
 #ax.xaxis.set_major_locator(mdates.YearLocator())
 #ax.xaxis.set_major_formatter(mdates.DateFormatter('%b\n%Y'))
 # -
-
-
 

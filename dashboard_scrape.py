@@ -37,8 +37,11 @@ URL = 'https://www.pcsb.org/covid19cases'
 URL_2020_2021 = 'https://www.pcsb.org/Page/34025'
 
 #Set driver path !!!Important - every user will have a different driver path! See readme.md for more info!
-driver_path = "C:/webdrivers/chromedriver.exe" # Brad's machine
-#driver_path = 'chromedriver' # Nancy's machine
+# A = !pwd
+if A == ['/Users/williams/Documents/NancyPy/PCS_COVID']:
+    driver_path = '/Users/williams/Documents/NancyPy/PCS_COVID/chromedriver' # Nancy's machine
+else:
+    driver_path = "C:/webdrivers/chromedriver.exe" # Brad's machine
 
 
 # -
@@ -54,10 +57,6 @@ driver_path = "C:/webdrivers/chromedriver.exe" # Brad's machine
 # This routine will give status updates of how many pages it is scraping and how many it has scraped.
 
 data_dict, data_df = PCS.Scrape_data(URL, driver_path, 2)
-
-# ## Data Analysis
-#
-# From this point on, we employ pandas and matplotlib to analyze and visualize the data. This notebook allows you to slice the data into various bins, by date, by school, by category, and shows some clever ways to plot the data compared to last year's data. 
 
 # +
 #Verify the size the dataframe. There are approximately 25 rows per page scraped (in most cases). 
