@@ -19,6 +19,7 @@ def debug(*args):
 
 def get_table(driver):
     #Access table on each page
+    time.sleep(1)
     soup = BeautifulSoup(driver.page_source, 'lxml')
     table = soup.find_all('table')
 
