@@ -2,4 +2,4 @@
 *.ipynb
 chromedriver*
 .ipynb_checkpoints/*
-
+*.png
