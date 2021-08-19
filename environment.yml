@@ -8,6 +8,7 @@ dependencies:
   - selenium
   - time
   - pandas
+  - jupyter
   - jupytext
   - pip
   - pip:
