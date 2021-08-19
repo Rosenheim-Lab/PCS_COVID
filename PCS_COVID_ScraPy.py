@@ -43,7 +43,7 @@ def initiate_scraping(url, driver_path):
     options.add_argument('--incognito')
     if headless == True:
         options.add_argument('--headless')         #Operates webpage without viewing through Chrome
-    driver = webdriver.Chrome(driver_path)
+    driver = webdriver.Chrome(driver_path, options=options)
     
 
     #Open webpage with webdriver, un-comment --headless argument above if you don't want to 
