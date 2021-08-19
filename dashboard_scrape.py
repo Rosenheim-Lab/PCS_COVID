@@ -37,7 +37,8 @@ URL = 'https://www.pcsb.org/covid19cases'
 URL_2020_2021 = 'https://www.pcsb.org/Page/34025'
 
 #Set driver path !!!Important - every user will have a different driver path! See readme.md for more info!
-driver_path = "/Users/williams/Documents/NancyPy/PCS_COVID/chromedriver"
+driver_path = "C:/webdrivers/chromedriver.exe" # Brad's machine
+#driver_path = 'chromedriver' # Nancy's machine
 
 
 # -

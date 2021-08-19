@@ -188,4 +188,4 @@ def Scrape_data(url, driver_path, delay):
             debug('New counter for constructing x_paths: ', new_start)
     
     return data_dict, data_df
- 
+
