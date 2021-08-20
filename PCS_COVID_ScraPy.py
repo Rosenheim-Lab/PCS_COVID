@@ -36,6 +36,7 @@ def get_page_indices(driver):
     return paging_buttons, page_text_indices, page_numbers
 
 
+# https://stackoverflow.com/a/53073789/47078
 def initiate_scraping(url, driver_path):
     #Set up selenium web interaction -
     options = webdriver.ChromeOptions()
@@ -43,7 +44,7 @@ def initiate_scraping(url, driver_path):
     options.add_argument('--incognito')
     if headless == True:
         options.add_argument('--headless')         #Operates webpage without viewing through Chrome
-    driver = webdriver.Chrome(driver_path)
+    driver = webdriver.Chrome(driver_path, options=options)
     
 
     #Open webpage with webdriver, un-comment --headless argument above if you don't want to 
