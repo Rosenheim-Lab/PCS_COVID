@@ -36,6 +36,7 @@ def get_page_indices(driver):
     return paging_buttons, page_text_indices, page_numbers
 
 
+# https://stackoverflow.com/a/53073789/47078
 def initiate_scraping(url, driver_path):
     #Set up selenium web interaction -
     options = webdriver.ChromeOptions()
