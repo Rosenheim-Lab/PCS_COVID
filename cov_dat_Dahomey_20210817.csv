@@ -1,410 +1,644 @@
 ,Date,Locations affected,Number of positive employees,Number of positive students
-0,2021/08/16,Administration Building,2,0
-1,2021/08/16,Azalea Middle School,0,1
-2,2021/08/16,Blanton Elementary School,2,0
-3,2021/08/16,Calvin Hunsinger School,1,0
-4,2021/08/16,Carwise Middle School,0,1
-5,2021/08/16,Clearwater Fundamental Middle School,1,0
-6,2021/08/16,Countryside High School,1,0
-7,2021/08/16,Curlew Creek Elementary School,1,3
-8,2021/08/16,Cypress Woods Elementary School,0,2
-9,2021/08/16,Dunedin Elementary School,1,0
-10,2021/08/16,East Lake High School,0,1
-11,2021/08/16,East Lake Middle School,0,3
-12,2021/08/16,Garrison-Jones Elementary School,0,1
-13,2021/08/16,Gibbs High School,1,2
-14,2021/08/16,Gulfport Elementary School,2,0
-15,2021/08/16,High Point Elementary School,1,0
-16,2021/08/16,Hollins High School,0,1
-17,2021/08/16,John Hopkins Middle School,0,1
-18,2021/08/16,Lakeview Fundamental Elementary School,1,0
-19,2021/08/16,Largo High School,0,1
-20,2021/08/16,Lealman Avenue Elementary School,0,1
-21,2021/08/16,Madeira Beach Fundamental,0,1
-22,2021/08/16,Melrose Elementary School,1,2
-23,2021/08/16,Mount Vernon Elementary School,1,0
-24,2021/08/16,North Shore Elementary School,1,0
-25,2021/08/16,Oak Grove Middle School,1,2
-26,2021/08/16,Osceola Fundamental High School,0,2
-27,2021/08/16,Ozona Elementary School,0,4
-28,2021/08/16,Pasadena Fundamental Elementary School,0,1
-29,2021/08/16,Paul B. Stephens ESE Center,1,0
-30,2021/08/16,Perkins Elementary School,0,2
-31,2021/08/16,Pinellas Academy of Math and Science,1,0
-32,2021/08/16,Pinellas Secondary School,1,0
-33,2021/08/16,Plato Academy Clearwater,0,7
-34,2021/08/16,Plato Academy Largo,0,3
-35,2021/08/16,Plato Academy Pinellas Park,0,4
-36,2021/08/16,Plato Academy Seminole,0,1
-37,2021/08/16,Richard O. Jacobson Technical High School,0,1
-38,2021/08/16,Safety Harbor Elementary School,1,1
-39,2021/08/16,Seminole Elementary School,1,0
-40,2021/08/16,Shore Acres Elementary School,0,2
-41,2021/08/16,Skyview Elementary School,2,0
-42,2021/08/16,Southern Oak Elementary School,1,0
-43,2021/08/16,St. Petersburg High School,0,1
-44,2021/08/16,Tarpon Springs Elementary School,1,0
-45,2021/08/16,Tarpon Springs Fundamental Elementary School,0,2
-46,2021/08/16,Tarpon Springs High School,1,0
-47,2021/08/16,Tarpon Springs Middle School,1,0
-48,2021/08/16,Tyrone Middle School,0,2
-49,2021/08/16,Walter Pownall Service Center,2,0
-50,2021/08/13,Academie Da Vinci,0,1
-51,2021/08/13,Administration Building,1,0
-52,2021/08/13,Athenian Academy,0,3
-53,2021/08/13,Azalea Elementary School,0,2
-54,2021/08/13,Bay Point Elementary School,0,1
-55,2021/08/13,Boca Ciega High School,0,3
-56,2021/08/13,Carwise Middle School,1,2
-57,2021/08/13,Clearwater Fundamental Middle School,0,1
-58,2021/08/13,Curlew Creek Elementary School,0,1
-59,2021/08/13,Curtis Fundamental Elementary School,0,1
-60,2021/08/13,Cypress Woods Elementary School,0,3
-61,2021/08/13,Dunedin High School,0,1
-62,2021/08/13,Fuguitt Elementary School,0,1
-63,2021/08/13,High Point Elementary School,1,0
-64,2021/08/13,Hollins High School,1,0
-65,2021/08/13,Largo High School,0,1
-66,2021/08/13,Lealman Innovation Academy,0,1
-67,2021/08/13,Lynch Elementary School,1,0
-68,2021/08/13,Madeira Beach Fundamental,0,1
-69,2021/08/13,Midtown Academy,1,0
-70,2021/08/13,Northeast High School,1,0
-71,2021/08/13,Oakhurst Elementary School,0,2
-72,2021/08/13,Osceola Fundamental High School,0,1
-73,2021/08/13,Palm Harbor University High School,0,2
-74,2021/08/13,Perkins Elementary School,0,1
-75,2021/08/13,Pinellas Academy of Math and Science,7,0
-76,2021/08/13,Pinellas Central Elementary School,1,0
-77,2021/08/13,Pinellas Park High School,1,0
-78,2021/08/13,Plato Academy Largo,3,7
-79,2021/08/13,Plato Academy Palm Harbor,0,2
-80,2021/08/13,Plato Academy Seminole,1,0
-81,2021/08/13,Safety Harbor Elementary School,0,1
-82,2021/08/13,Safety Harbor Middle School,1,0
-83,2021/08/13,Sandy Lane Elementary School,0,2
-84,2021/08/13,Seminole High School,1,2
-85,2021/08/13,St. Petersburg High School,0,1
-86,2021/08/13,Starkey Elementary School,0,1
-87,2021/08/13,Sunset Hills Elementary School,0,1
-88,2021/08/13,Tarpon Springs High School,0,1
-89,2021/08/13,Thurgood Marshall Fundamental Middle School,0,1
-90,2021/08/12,Administration Building,4,0
-91,2021/08/12,Bay Point Elementary School,0,1
-92,2021/08/12,Belcher Elementary School,1,2
-93,2021/08/12,Boca Ciega High School,0,1
-94,2021/08/12,Campbell Park Elementary School,1,0
-95,2021/08/12,Clearwater Fundamental Middle School,0,3
-96,2021/08/12,Clearwater High School,1,0
-97,2021/08/12,Countryside High School,0,1
-98,2021/08/12,Cross Bayou Elementary School,0,1
-99,2021/08/12,Curtis Fundamental Elementary School,0,2
-100,2021/08/12,Douglas Jamerson Elementary School,0,2
-101,2021/08/12,Dunedin High School,0,4
-102,2021/08/12,Dunedin Highland Middle School,1,4
-103,2021/08/12,East Lake High School,0,1
-104,2021/08/12,Eisenhower Elementary School,1,0
-105,2021/08/12,Gulfport Elementary School,1,0
-106,2021/08/12,James B. Sanderlin K-8,0,2
-107,2021/08/12,Lake St. George Elementary School,0,2
-108,2021/08/12,Lakewood High School,0,1
-109,2021/08/12,Largo Middle School,0,2
-110,2021/08/12,Leila Davis Elementary School,0,1
-111,2021/08/12,Madeira Beach Fundamental,0,1
-112,2021/08/12,McMullen-Booth Elementary School,1,1
-113,2021/08/12,Melrose Elementary School,0,1
-114,2021/08/12,Morgan Fitzgerald Middle School,0,1
-115,2021/08/12,Nina Harris ESE,0,1
-116,2021/08/12,Northwest Elementary School,0,2
-117,2021/08/12,Oak Grove Middle School,0,3
-118,2021/08/12,Oakhurst Elementary School,0,1
-119,2021/08/12,Orange Grove Elementary School,0,5
-120,2021/08/12,Osceola Fundamental High School,0,1
-121,2021/08/12,Osceola Middle School,0,1
-122,2021/08/12,Ozona Elementary School,0,1
-123,2021/08/12,Palm Harbor Middle School,0,1
-124,2021/08/12,Palm Harbor University High School,0,5
-125,2021/08/12,Pasadena Fundamental Elementary School,0,1
-126,2021/08/12,Paul B. Stephens ESE Center,1,2
-127,2021/08/12,Perkins Elementary School,0,1
-128,2021/08/12,Pinellas Park Elementary School,0,1
-129,2021/08/12,Pinellas Park High School,0,1
-130,2021/08/12,Plumb Elementary School,0,1
-131,2021/08/12,Ponce de Leon Elementary School,0,1
-132,2021/08/12,Richard L. Sanders School,1,0
-133,2021/08/12,Richard O. Jacobson Technical High School,0,2
-134,2021/08/12,Ridgecrest Elementary School,0,1
-135,2021/08/12,Sandy Lane Elementary School,1,0
-136,2021/08/12,Sawgrass Lake Elementary School,1,0
-137,2021/08/12,Seventy-Fourth Street Elementary School,0,1
-138,2021/08/12,Sexton Elementary School,1,0
-139,2021/08/12,Shore Acres Elementary School,0,1
-140,2021/08/12,Skyview Elementary School,0,2
-141,2021/08/12,Southern Oak Elementary School,0,1
-142,2021/08/12,Starkey Elementary School,0,3
-143,2021/08/12,Sunset Hills Elementary School,0,1
-144,2021/08/12,Tarpon Springs High School,1,0
-145,2021/08/12,Tomlinson Adult Education Center,1,0
-146,2021/08/12,Westgate Elementary School,1,0
-147,2021/08/12,Woodlawn Elementary School,0,1
-148,2021/08/11,Administration Building,1,0
-149,2021/08/11,Anona Elementary School,0,1
-150,2021/08/11,Azalea Middle School,1,0
-151,2021/08/11,Bardmoor Elementary School,0,4
-152,2021/08/11,Bay Point Elementary School,0,2
-153,2021/08/11,Bay Point Middle School,1,0
-154,2021/08/11,Bear Creek Elementary School,1,2
-155,2021/08/11,Belcher Elementary School,0,1
-156,2021/08/11,Brooker Creek Elementary School,1,1
-157,2021/08/11,Carwise Middle School,1,0
-158,2021/08/11,Countryside High School,0,3
-159,2021/08/11,Dunedin High School,0,4
-160,2021/08/11,Dunedin Highland Middle School,0,1
-161,2021/08/11,East Lake High School,0,2
-162,2021/08/11,Fairmount Park Elementary School,1,0
-163,2021/08/11,Frontier Elementary School,0,2
-164,2021/08/11,Fuguitt Elementary School,0,2
-165,2021/08/11,Gibbs High School,0,1
-166,2021/08/11,Gulfport Elementary School,3,0
-167,2021/08/11,High Point Elementary School,1,0
-168,2021/08/11,Highland Lakes Elementary School,0,1
-169,2021/08/11,Hollins High School,0,1
-170,2021/08/11,James B. Sanderlin K-8,0,1
-171,2021/08/11,Kings Highway Elementary School,1,0
-172,2021/08/11,Lakeview Fundamental Elementary School,1,0
-173,2021/08/11,Lakewood Elementary School,1,0
-174,2021/08/11,Lakewood High School,0,1
-175,2021/08/11,Largo High School,3,3
-176,2021/08/11,Lealman Avenue Elementary School,1,0
-177,2021/08/11,Madeira Beach Fundamental,0,1
-178,2021/08/11,Maximo Elementary School,1,0
-179,2021/08/11,Meadowlawn Middle School,1,0
-180,2021/08/11,Melrose Elementary School,0,1
-181,2021/08/11,Midtown Academy,0,1
-182,2021/08/11,Mildred Helms Elementary School,1,0
-183,2021/08/11,New Heights Elementary School,1,0
-184,2021/08/11,North Shore Elementary School,0,2
-185,2021/08/11,Northwest Elementary School,1,0
-186,2021/08/11,Oakhurst Elementary School,0,1
-187,2021/08/11,Orange Grove Elementary School,1,0
-188,2021/08/11,Osceola Middle School,0,1
-189,2021/08/11,Ozona Elementary School,0,1
-190,2021/08/11,Palm Harbor Middle School,0,1
-191,2021/08/11,Palm Harbor University High School,0,1
-192,2021/08/11,Pasadena Fundamental Elementary School,0,3
-193,2021/08/11,Perkins Elementary School,0,3
-194,2021/08/11,Pinellas Park High School,1,2
-195,2021/08/11,Pinellas Secondary School,0,1
-196,2021/08/11,Richard O. Jacobson Technical High School,0,3
-197,2021/08/11,Ridgecrest Elementary School,1,0
-198,2021/08/11,Safety Harbor Elementary School,1,0
-199,2021/08/11,San Jose Elementary School,0,1
-200,2021/08/11,Sandy Lane Elementary School,1,0
-201,2021/08/11,Sawgrass Lake Elementary School,1,0
-202,2021/08/11,Seminole Middle School,0,1
-203,2021/08/11,Seventy-Fourth Street Elementary School,0,4
-204,2021/08/11,Shore Acres Elementary School,0,2
-205,2021/08/11,St. Petersburg High School,1,2
-206,2021/08/11,Starkey Elementary School,0,1
-207,2021/08/11,Sunset Hills Elementary School,0,1
-208,2021/08/11,Tarpon Springs Elementary School,1,0
-209,2021/08/11,Tarpon Springs High School,1,2
-210,2021/08/11,Thurgood Marshall Fundamental Middle School,1,1
-211,2021/08/11,Tyrone Middle School,1,0
-212,2021/08/11,Walsingham Elementary School,0,2
-213,2021/08/11,Walter Pownall Service Center,3,0
-214,2021/08/10,Administration Building,1,0
-215,2021/08/10,Belleair Elementary School,1,0
-216,2021/08/10,Boca Ciega High School,1,1
-217,2021/08/10,Clearwater High School,1,0
-218,2021/08/10,Countryside High School,1,0
-219,2021/08/10,Curtis Fundamental Elementary School,1,0
-220,2021/08/10,Dunedin High School,2,0
-221,2021/08/10,Garrison-Jones Elementary School,1,0
-222,2021/08/10,Gulfport Elementary School,1,0
-223,2021/08/10,Lealman Avenue Elementary School,0,1
-224,2021/08/10,Marjorie Rawlings Elementary School,1,0
-225,2021/08/10,Maximo Elementary School,1,0
-226,2021/08/10,Nina Harris ESE,1,0
-227,2021/08/10,Oakhurst Elementary School,1,0
-228,2021/08/10,Osceola Fundamental High School,0,1
-229,2021/08/10,Osceola Middle School,1,0
-230,2021/08/10,Ridgecrest Elementary School,1,0
-231,2021/08/10,Southern Oak Elementary School,1,0
-232,2021/08/10,St. Petersburg High School,1,0
-233,2021/08/10,Sunset Hills Elementary School,1,0
-234,2021/08/10,Tarpon Springs Fundamental Elementary School,1,0
-235,2021/08/10,Tarpon Springs High School,1,0
-236,2021/08/10,Walter Pownall Service Center,1,0
-237,2021/08/10,Westgate Elementary School,1,0
-238,2021/08/10,Woodlawn Elementary School,0,1
-239,2021/08/09,Administration Building,5,0
-240,2021/08/09,Azalea Elementary School,1,0
-241,2021/08/09,Azalea Middle School,3,0
-242,2021/08/09,Bardmoor Elementary School,4,0
-243,2021/08/09,Bauder Elementary School,2,2
-244,2021/08/09,Bay Point Middle School,0,1
-245,2021/08/09,Bay Vista Fundamental Elementary School,0,1
-246,2021/08/09,Bayside High School,1,0
-247,2021/08/09,Bear Creek Elementary School,1,0
-248,2021/08/09,Belleair Elementary School,3,0
-249,2021/08/09,Bernice Johnson Center,2,0
-250,2021/08/09,Blanton Elementary School,2,0
-251,2021/08/09,Boca Ciega High School,1,0
-252,2021/08/09,Brooker Creek Elementary School,1,1
-253,2021/08/09,Calvin Hunsinger School,2,0
-254,2021/08/09,Carwise Middle School,4,3
-255,2021/08/09,Clearwater High School,1,0
-256,2021/08/09,Cross Bayou Elementary School,2,0
-257,2021/08/09,Curlew Creek Elementary School,1,0
-258,2021/08/09,Cypress Woods Elementary School,5,1
-259,2021/08/09,Disston Academy,2,0
-260,2021/08/09,Dunedin Elementary School,4,0
-261,2021/08/09,Dunedin High School,2,1
-262,2021/08/09,Dunedin Highland Middle School,0,2
-263,2021/08/09,East Lake High School,1,1
-264,2021/08/09,East Lake Middle School,1,0
-265,2021/08/09,Eisenhower Elementary School,1,2
-266,2021/08/09,Forest Lakes Elementary School,1,2
-267,2021/08/09,Frontier Elementary School,1,0
-268,2021/08/09,Fuguitt Elementary School,1,0
-269,2021/08/09,Garrison-Jones Elementary School,3,0
-270,2021/08/09,Gibbs High School,2,0
-271,2021/08/09,Gulfport Elementary School,1,0
-272,2021/08/09,High Point Elementary School,3,0
-273,2021/08/09,Hollins High School,2,2
-274,2021/08/09,James B. Sanderlin K-8,1,0
-275,2021/08/09,John Hopkins Middle School,1,0
-276,2021/08/09,Kings Highway Elementary School,1,0
-277,2021/08/09,Lakewood Elementary School,1,0
-278,2021/08/09,Lakewood High School,2,0
-279,2021/08/09,Largo High School,1,0
-280,2021/08/09,Lealman Innovation Academy,1,0
-281,2021/08/09,Lynch Elementary School,1,0
-282,2021/08/09,Madeira Beach Fundamental,0,3
-283,2021/08/09,Maximo Elementary School,3,0
-284,2021/08/09,McMullen-Booth Elementary School,1,1
-285,2021/08/09,Meadowlawn Middle School,0,1
-286,2021/08/09,Melrose Elementary School,3,0
-287,2021/08/09,Midtown Academy,2,0
-288,2021/08/09,Mount Vernon Elementary School,1,0
-289,2021/08/09,North Shore Elementary School,2,0
-290,2021/08/09,Northwest Elementary School,1,0
-291,2021/08/09,Oak Grove Middle School,1,0
-292,2021/08/09,Oakhurst Elementary School,0,2
-293,2021/08/09,Orange Grove Elementary School,0,1
-294,2021/08/09,Osceola Fundamental High School,2,2
-295,2021/08/09,Osceola Middle School,2,0
-296,2021/08/09,Ozona Elementary School,3,0
-297,2021/08/09,Palm Harbor Middle School,1,1
-298,2021/08/09,Palm Harbor University High School,1,6
-299,2021/08/09,Pasadena Fundamental Elementary School,1,1
-300,2021/08/09,Paul B. Stephens ESE Center,1,0
-301,2021/08/09,Perkins Elementary School,1,0
-302,2021/08/09,Pinellas Central Elementary School,1,0
-303,2021/08/09,Pinellas Gulf Coast Academy,1,0
-304,2021/08/09,Pinellas Park Elementary School,1,1
-305,2021/08/09,Pinellas Park High School,2,1
-306,2021/08/09,Pinellas Park Middle School,0,1
-307,2021/08/09,Pinellas Technical College Clearwater,1,1
-308,2021/08/09,Pinellas Technical College St. Petersburg,3,0
-309,2021/08/09,Plumb Elementary School,1,0
-310,2021/08/09,Richard L. Sanders School,1,0
-311,2021/08/09,Richard O. Jacobson Technical High School,0,1
-312,2021/08/09,Ridgecrest Elementary School,2,0
-313,2021/08/09,Safety Harbor Elementary School,1,1
-314,2021/08/09,Safety Harbor Middle School,2,0
-315,2021/08/09,Sandy Lane Elementary School,1,0
-316,2021/08/09,Seminole Elementary School,1,0
-317,2021/08/09,Seminole High School,1,0
-318,2021/08/09,Seminole Middle School,0,3
-319,2021/08/09,Sexton Elementary School,1,0
-320,2021/08/09,Shore Acres Elementary School,1,0
-321,2021/08/09,Skycrest Elementary School,3,1
-322,2021/08/09,Skyview Elementary School,1,0
-323,2021/08/09,Southern Oak Elementary School,0,1
-324,2021/08/09,St. Petersburg High School,1,0
-325,2021/08/09,Starkey Elementary School,1,2
-326,2021/08/09,Sunset Hills Elementary School,2,0
-327,2021/08/09,Sutherland Elementary School,1,2
-328,2021/08/09,Tarpon Springs Elementary School,3,1
-329,2021/08/09,Tarpon Springs High School,0,2
-330,2021/08/09,Tarpon Springs Middle School,0,1
-331,2021/08/09,Thurgood Marshall Fundamental Middle School,0,1
-332,2021/08/09,Tomlinson Adult Education Center,2,0
-333,2021/08/09,Tyrone Middle School,1,0
-334,2021/08/09,Walter Pownall Service Center,8,0
-335,2021/08/09,Westgate Elementary School,0,1
-336,2021/08/01,Administration Building,6,0
-337,2021/08/01,Anona Elementary School,1,0
-338,2021/08/01,Bauder Elementary School,2,1
-339,2021/08/01,Campbell Park Elementary School,1,0
-340,2021/08/01,Dunedin Elementary School,1,0
-341,2021/08/01,Dunedin High School,0,1
-342,2021/08/01,Frontier Elementary School,1,0
-343,2021/08/01,Lake St. George Elementary School,1,1
-344,2021/08/01,Lakewood Elementary School,1,0
-345,2021/08/01,Lakewood High School,1,0
-346,2021/08/01,Lealman Avenue Elementary School,1,0
-347,2021/08/01,Meadowlawn Middle School,1,1
-348,2021/08/01,Midtown Academy,1,0
-349,2021/08/01,Midtown Academy,1,0
-350,2021/08/01,Morgan Fitzgerald Middle School,1,0
-351,2021/08/01,Ozona Elementary School,1,0
-352,2021/08/01,Pinellas Technical College Clearwater,2,0
-353,2021/08/01,Southern Oak Elementary School,1,0
-354,2021/08/01,St. Petersburg High School,0,1
-355,2021/08/01,Sunset Hills Elementary School,1,0
-356,2021/08/01,Tarpon Springs Middle School,1,0
-357,2021/08/01,Thurgood Marshall Fundamental Middle School,1,2
-358,2021/07/26,Administration Building,4,0
-359,2021/07/26,Anona Elementary School,0,1
-360,2021/07/26,Brooker Creek Elementary School,1,0
-361,2021/07/26,Cross Bayou Elementary School,1,0
-362,2021/07/26,Dunedin High School,1,0
-363,2021/07/26,Gibbs High School,1,1
-364,2021/07/26,James B. Sanderlin K-8,1,0
-365,2021/07/26,John Hopkins Middle School,1,0
-366,2021/07/26,Madeira Beach Fundamental,0,2
-367,2021/07/26,McMullen-Booth Elementary School,1,0
-368,2021/07/26,Morgan Fitzgerald Middle School,1,0
-369,2021/07/26,Nina Harris ESE,0,1
-370,2021/07/26,Northeast High School,1,0
-371,2021/07/26,Oldsmar Elementary School,0,2
-372,2021/07/26,Pace Center for Girls,1,0
-373,2021/07/26,Perkins Elementary School,1,0
-374,2021/07/26,Pinellas Park High School,0,1
-375,2021/07/26,Richard L. Sanders School,1,0
-376,2021/07/26,Seminole High School,0,1
-377,2021/07/26,Seminole Middle School,0,1
-378,2021/07/26,Sunset Hills Elementary School,1,0
-379,2021/07/26,Thurgood Marshall Fundamental Middle School,0,1
-380,2021/07/26,Tyrone Middle School,0,1
-381,2021/07/26,Walsingham Elementary School,1,0
-382,2021/07/26,Walter Pownall Service Center,6,0
-383,2021/07/19,Blanton Elementary School,1,0
-384,2021/07/19,Calvin Hunsinger School,0,1
-385,2021/07/19,Lakewood High School,1,0
-386,2021/07/19,Leila Davis Elementary School,1,1
-387,2021/07/19,Melrose Elementary School,0,3
-388,2021/07/19,Morgan Fitzgerald Middle School,1,0
-389,2021/07/19,Northeast High School,0,1
-390,2021/07/19,Ozona Elementary School,1,0
-391,2021/07/19,Pace Center for Girls,0,1
-392,2021/07/19,Pasadena Fundamental Elementary School,0,1
-393,2021/07/19,Pinellas Technical College St. Petersburg,1,0
-394,2021/07/19,Southern Oak Elementary School,1,0
-395,2021/07/19,Tarpon Springs Middle School,1,0
-396,2021/07/19,Walter Pownall Service Center,1,0
-397,2021/07/19,Westgate Elementary School,1,0
-398,2021/07/12,Frontier Elementary School,0,1
-399,2021/07/12,Garrison-Jones Elementary School,1,0
-400,2021/07/12,Mildred Helms Elementary School,1,0
-401,2021/07/12,Paul B. Stephens ESE Center,0,1
-402,2021/07/12,Pinellas Park High School,0,1
-403,2021/07/12,Pinellas Park Middle School,0,1
-404,2021/07/12,Pinellas Technical College Clearwater,1,0
-405,2021/07/12,Seminole Middle School,1,0
-406,2021/07/12,Sexton Elementary School,1,0
-407,2021/07/12,Sutherland Elementary School,1,0
-408,2021/07/12,Walter Pownall Service Center,3,0
+0,2021/08/19,Academie Da Vinci,0,1
+1,2021/08/19,Administration Building,1,0
+2,2021/08/19,Azalea Elementary School,0,1
+3,2021/08/19,Azalea Middle School,0,1
+4,2021/08/19,Bardmoor Elementary School,0,1
+5,2021/08/19,Bauder Elementary School,0,2
+6,2021/08/19,Bay Point Elementary School,1,4
+7,2021/08/19,Bay Point Middle School,0,1
+8,2021/08/19,Bay Vista Fundamental Elementary School,0,2
+9,2021/08/19,Bayside High School,0,1
+10,2021/08/19,Blanton Elementary School,0,1
+11,2021/08/19,Boca Ciega High School,0,4
+12,2021/08/19,Brooker Creek Elementary School,1,1
+13,2021/08/19,Calvin Hunsinger School,1,0
+14,2021/08/19,Campbell Park Elementary School,0,1
+15,2021/08/19,Carwise Middle School,0,1
+16,2021/08/19,Chi Chi Rodriguez Academy,0,1
+17,2021/08/19,Clearwater High School,0,1
+18,2021/08/19,Cross Bayou Elementary School,0,1
+19,2021/08/19,Curlew Creek Elementary School,0,1
+20,2021/08/19,Curtis Fundamental Elementary School,0,2
+21,2021/08/19,Cypress Woods Elementary School,0,1
+22,2021/08/19,Discovery Academy of Science,1,2
+23,2021/08/19,Dunedin Elementary School,1,0
+24,2021/08/19,Dunedin High School,0,1
+25,2021/08/19,East Lake High School,0,6
+26,2021/08/19,Eisenhower Elementary School,0,2
+27,2021/08/19,Elisa Nelson Elementary School,0,1
+28,2021/08/19,Fairmount Park Elementary School,0,1
+29,2021/08/19,Forest Lakes Elementary School,0,1
+30,2021/08/19,Gibbs High School,0,2
+31,2021/08/19,High Point Elementary School,0,1
+32,2021/08/19,Hollins High School,0,1
+33,2021/08/19,James B. Sanderlin K-8,0,2
+34,2021/08/19,John Hopkins Middle School,0,1
+35,2021/08/19,Kings Highway Elementary School,0,1
+36,2021/08/19,Lakewood Elementary School,0,3
+37,2021/08/19,Lakewood High School,0,3
+38,2021/08/19,Largo High School,0,7
+39,2021/08/19,Largo Middle School,0,3
+40,2021/08/19,Madeira Beach Fundamental,0,2
+41,2021/08/19,Marjorie Rawlings Elementary School,0,1
+42,2021/08/19,McMullen-Booth Elementary School,0,1
+43,2021/08/19,Meadowlawn Middle School,0,3
+44,2021/08/19,Melrose Elementary School,0,4
+45,2021/08/19,Midtown Academy,0,1
+46,2021/08/19,Mildred Helms Elementary School,0,2
+47,2021/08/19,Mount Vernon Elementary School,1,2
+48,2021/08/19,Northeast High School,0,4
+49,2021/08/19,Northwest Elementary School,2,0
+50,2021/08/19,Oakhurst Elementary School,0,1
+51,2021/08/19,Orange Grove Elementary School,0,1
+52,2021/08/19,Osceola Fundamental High School,0,6
+53,2021/08/19,Osceola Middle School,0,3
+54,2021/08/19,Pace Center for Girls,0,1
+55,2021/08/19,Palm Harbor University High School,0,4
+56,2021/08/19,Pasadena Fundamental Elementary School,0,1
+57,2021/08/19,Perkins Elementary School,0,3
+58,2021/08/19,Pinellas Central Elementary School,0,1
+59,2021/08/19,Pinellas Park Elementary School,0,1
+60,2021/08/19,Pinellas Park High School,0,10
+61,2021/08/19,Pinellas Park Middle School,0,4
+62,2021/08/19,Pinellas Technical College Clearwater,1,2
+63,2021/08/19,Pinellas Technical College St. Petersburg,0,1
+64,2021/08/19,Plato Academy Palm Harbor,0,2
+65,2021/08/19,Plato Academy St. Petersburg,0,1
+66,2021/08/19,Plumb Elementary School,0,1
+67,2021/08/19,Ponce de Leon Elementary School,0,1
+68,2021/08/19,Safety Harbor Elementary School,2,0
+69,2021/08/19,Safety Harbor Middle School,1,0
+70,2021/08/19,Sawgrass Lake Elementary School,0,1
+71,2021/08/19,Seminole High School,0,1
+72,2021/08/19,Seminole Middle School,0,1
+73,2021/08/19,Seventy-Fourth Street Elementary School,0,1
+74,2021/08/19,Sexton Elementary School,0,2
+75,2021/08/19,Shore Acres Elementary School,1,1
+76,2021/08/19,Skyview Elementary School,0,2
+77,2021/08/19,Southern Oak Elementary School,0,1
+78,2021/08/19,St. Petersburg High School,0,3
+79,2021/08/19,Starkey Elementary School,0,1
+80,2021/08/19,Tarpon Springs Middle School,0,1
+81,2021/08/19,Thurgood Marshall Fundamental Middle School,0,1
+82,2021/08/19,Tyrone Middle School,0,2
+83,2021/08/19,Walsingham Elementary School,0,1
+84,2021/08/19,Walter Pownall Service Center,4,0
+85,2021/08/18,Anona Elementary School,0,1
+86,2021/08/18,Bauder Elementary School,0,1
+87,2021/08/18,Bay Point Middle School,0,1
+88,2021/08/18,Bay Vista Fundamental Elementary School,0,1
+89,2021/08/18,Bear Creek Elementary School,0,1
+90,2021/08/18,Belcher Elementary School,0,2
+91,2021/08/18,Belleair Elementary School,0,1
+92,2021/08/18,Boca Ciega High School,0,1
+93,2021/08/18,Carwise Middle School,1,1
+94,2021/08/18,Countryside High School,0,3
+95,2021/08/18,Cypress Woods Elementary School,1,0
+96,2021/08/18,Douglas Jamerson Elementary School,0,1
+97,2021/08/18,Dunedin High School,0,3
+98,2021/08/18,Dunedin Highland Middle School,1,0
+99,2021/08/18,East Lake High School,0,5
+100,2021/08/18,Forest Lakes Elementary School,0,1
+101,2021/08/18,Fuguitt Elementary School,0,1
+102,2021/08/18,Garrison-Jones Elementary School,0,1
+103,2021/08/18,Gulfport Elementary School,0,1
+104,2021/08/18,High Point Elementary School,0,2
+105,2021/08/18,Hollins High School,0,1
+106,2021/08/18,James B. Sanderlin K-8,0,1
+107,2021/08/18,Lakewood High School,0,1
+108,2021/08/18,Largo High School,0,3
+109,2021/08/18,Largo Middle School,0,2
+110,2021/08/18,Lealman Innovation Academy,0,1
+111,2021/08/18,Leila Davis Elementary School,0,1
+112,2021/08/18,Lynch Elementary School,0,3
+113,2021/08/18,Madeira Beach Fundamental,1,2
+114,2021/08/18,Maximo Elementary School,0,1
+115,2021/08/18,McMullen-Booth Elementary School,0,2
+116,2021/08/18,Melrose Elementary School,0,1
+117,2021/08/18,Mildred Helms Elementary School,0,2
+118,2021/08/18,Morgan Fitzgerald Middle School,0,1
+119,2021/08/18,Mount Vernon Elementary School,2,0
+120,2021/08/18,New Heights Elementary School,0,1
+121,2021/08/18,Nina Harris ESE,0,2
+122,2021/08/18,Northeast High School,0,1
+123,2021/08/18,Northwest Elementary School,0,2
+124,2021/08/18,Oak Grove Middle School,1,2
+125,2021/08/18,Oakhurst Elementary School,0,1
+126,2021/08/18,Oldsmar Elementary School,0,1
+127,2021/08/18,Orange Grove Elementary School,0,1
+128,2021/08/18,Osceola Fundamental High School,0,1
+129,2021/08/18,Ozona Elementary School,0,2
+130,2021/08/18,Palm Harbor Middle School,0,1
+131,2021/08/18,Palm Harbor University High School,0,7
+132,2021/08/18,Perkins Elementary School,1,3
+133,2021/08/18,Pinellas Academy of Math and Science,0,2
+134,2021/08/18,Pinellas Central Elementary School,0,1
+135,2021/08/18,Pinellas Gulf Coast Academy,0,1
+136,2021/08/18,Pinellas Park Elementary School,0,1
+137,2021/08/18,Pinellas Park Middle School,0,1
+138,2021/08/18,Pinellas Technical College Clearwater,0,1
+139,2021/08/18,Pinellas Technical College St. Petersburg,0,2
+140,2021/08/18,Plato Academy Clearwater,0,3
+141,2021/08/18,Plato Academy Palm Harbor,0,1
+142,2021/08/18,Ponce de Leon Elementary School,0,1
+143,2021/08/18,Richard L. Sanders School,0,1
+144,2021/08/18,Safety Harbor Middle School,0,1
+145,2021/08/18,San Jose Elementary School,0,1
+146,2021/08/18,Sandy Lane Elementary School,0,1
+147,2021/08/18,Seminole High School,0,1
+148,2021/08/18,Seminole Middle School,0,1
+149,2021/08/18,Sexton Elementary School,0,1
+150,2021/08/18,Shore Acres Elementary School,0,1
+151,2021/08/18,Skyview Elementary School,0,1
+152,2021/08/18,St. Petersburg High School,1,1
+153,2021/08/18,Tarpon Springs High School,0,1
+154,2021/08/18,Tarpon Springs Middle School,1,2
+155,2021/08/18,Thurgood Marshall Fundamental Middle School,0,1
+156,2021/08/18,Tyrone Middle School,0,1
+157,2021/08/18,Walter Pownall Service Center,3,0
+158,2021/08/17,Academie Da Vinci,0,2
+159,2021/08/17,Administration Building,2,0
+160,2021/08/17,Azalea Elementary School,0,1
+161,2021/08/17,Bauder Elementary School,1,0
+162,2021/08/17,Bay Point Middle School,1,0
+163,2021/08/17,Belcher Elementary School,1,2
+164,2021/08/17,Boca Ciega High School,0,2
+165,2021/08/17,Brooker Creek Elementary School,0,2
+166,2021/08/17,Campbell Park Elementary School,1,0
+167,2021/08/17,Carwise Middle School,1,1
+168,2021/08/17,Countryside High School,0,1
+169,2021/08/17,Curtis Fundamental Elementary School,0,1
+170,2021/08/17,Cypress Woods Elementary School,2,2
+171,2021/08/17,Discovery Academy of Science,2,0
+172,2021/08/17,Dunedin Elementary School,1,0
+173,2021/08/17,Dunedin High School,0,2
+174,2021/08/17,Dunedin Highland Middle School,0,1
+175,2021/08/17,East Lake High School,0,7
+176,2021/08/17,East Lake Middle School,1,0
+177,2021/08/17,Eisenhower Elementary School,0,2
+178,2021/08/17,Elisa Nelson Elementary School,0,1
+179,2021/08/17,Fairmount Park Elementary School,0,1
+180,2021/08/17,Fuguitt Elementary School,0,1
+181,2021/08/17,Garrison-Jones Elementary School,0,1
+182,2021/08/17,Gibbs High School,1,0
+183,2021/08/17,Gulfport Elementary School,0,1
+184,2021/08/17,High Point Elementary School,1,0
+185,2021/08/17,Highland Lakes Elementary School,0,2
+186,2021/08/17,Hollins High School,1,0
+187,2021/08/17,James B. Sanderlin K-8,0,4
+188,2021/08/17,Largo High School,0,1
+189,2021/08/17,Largo Middle School,0,2
+190,2021/08/17,Lealman Innovation Academy,1,0
+191,2021/08/17,Madeira Beach Fundamental,1,2
+192,2021/08/17,McMullen-Booth Elementary School,0,2
+193,2021/08/17,Midtown Academy,2,1
+194,2021/08/17,New Heights Elementary School,0,1
+195,2021/08/17,Northeast High School,1,0
+196,2021/08/17,Northwest Elementary School,1,0
+197,2021/08/17,Oak Grove Middle School,0,3
+198,2021/08/17,Oakhurst Elementary School,0,1
+199,2021/08/17,Orange Grove Elementary School,1,1
+200,2021/08/17,Osceola Fundamental High School,0,2
+201,2021/08/17,Osceola Fundamental High School,0,2
+202,2021/08/17,Osceola Middle School,1,2
+203,2021/08/17,Ozona Elementary School,0,1
+204,2021/08/17,Palm Harbor Middle School,0,1
+205,2021/08/17,Palm Harbor University High School,1,2
+206,2021/08/17,Pasadena Fundamental Elementary School,1,0
+207,2021/08/17,Paul B. Stephens ESE Center,1,0
+208,2021/08/17,Pinellas Academy of Math and Science,0,4
+209,2021/08/17,Pinellas Central Elementary School,1,2
+210,2021/08/17,Pinellas Park Elementary School,1,0
+211,2021/08/17,Pinellas Park High School,1,1
+212,2021/08/17,Pinellas Park Middle School,0,5
+213,2021/08/17,Pinellas Technical College St. Petersburg,0,1
+214,2021/08/17,Plato Academy Clearwater,1,13
+215,2021/08/17,Plato Academy Palm Harbor,0,2
+216,2021/08/17,Plato Academy St. Petersburg,0,1
+217,2021/08/17,Ridgecrest Elementary School,0,1
+218,2021/08/17,Seminole Elementary School,0,1
+219,2021/08/17,Seminole High School,0,1
+220,2021/08/17,Seminole Middle School,2,0
+221,2021/08/17,Seventy-Fourth Street Elementary School,1,0
+222,2021/08/17,Shore Acres Elementary School,0,1
+223,2021/08/17,Skyview Elementary School,0,1
+224,2021/08/17,Southern Oak Elementary School,0,1
+225,2021/08/17,St. Petersburg Collegiate Gibbs Campus,0,2
+226,2021/08/17,St. Petersburg High School,0,1
+227,2021/08/17,Starkey Elementary School,1,0
+228,2021/08/17,Sunset Hills Elementary School,2,1
+229,2021/08/17,Sutherland Elementary School,0,2
+230,2021/08/17,Tarpon Springs Middle School,0,1
+231,2021/08/17,Tyrone Middle School,0,2
+232,2021/08/17,Walter Pownall Service Center,9,0
+233,2021/08/17,Westgate Elementary School,1,0
+234,2021/08/16,Administration Building,2,0
+235,2021/08/16,Azalea Middle School,0,1
+236,2021/08/16,Blanton Elementary School,2,0
+237,2021/08/16,Calvin Hunsinger School,1,0
+238,2021/08/16,Carwise Middle School,0,1
+239,2021/08/16,Clearwater Fundamental Middle School,1,0
+240,2021/08/16,Countryside High School,1,0
+241,2021/08/16,Curlew Creek Elementary School,1,3
+242,2021/08/16,Cypress Woods Elementary School,0,2
+243,2021/08/16,Dunedin Elementary School,1,0
+244,2021/08/16,East Lake High School,0,1
+245,2021/08/16,East Lake Middle School,0,3
+246,2021/08/16,Garrison-Jones Elementary School,0,1
+247,2021/08/16,Gibbs High School,1,2
+248,2021/08/16,Gulfport Elementary School,2,0
+249,2021/08/16,High Point Elementary School,1,0
+250,2021/08/16,Hollins High School,0,1
+251,2021/08/16,John Hopkins Middle School,0,1
+252,2021/08/16,Lakeview Fundamental Elementary School,1,0
+253,2021/08/16,Largo High School,0,1
+254,2021/08/16,Lealman Avenue Elementary School,0,1
+255,2021/08/16,Madeira Beach Fundamental,0,1
+256,2021/08/16,Melrose Elementary School,1,2
+257,2021/08/16,Mount Vernon Elementary School,1,0
+258,2021/08/16,North Shore Elementary School,1,0
+259,2021/08/16,Oak Grove Middle School,1,2
+260,2021/08/16,Osceola Fundamental High School,0,2
+261,2021/08/16,Ozona Elementary School,0,4
+262,2021/08/16,Pasadena Fundamental Elementary School,0,1
+263,2021/08/16,Paul B. Stephens ESE Center,1,0
+264,2021/08/16,Perkins Elementary School,0,2
+265,2021/08/16,Pinellas Academy of Math and Science,1,0
+266,2021/08/16,Pinellas Secondary School,1,0
+267,2021/08/16,Plato Academy Clearwater,0,7
+268,2021/08/16,Plato Academy Largo,0,3
+269,2021/08/16,Plato Academy Pinellas Park,0,4
+270,2021/08/16,Plato Academy Seminole,0,1
+271,2021/08/16,Richard O. Jacobson Technical High School,0,1
+272,2021/08/16,Safety Harbor Elementary School,1,1
+273,2021/08/16,Seminole Elementary School,1,0
+274,2021/08/16,Shore Acres Elementary School,0,2
+275,2021/08/16,Skyview Elementary School,2,0
+276,2021/08/16,Southern Oak Elementary School,1,0
+277,2021/08/16,St. Petersburg High School,0,1
+278,2021/08/16,Tarpon Springs Elementary School,1,0
+279,2021/08/16,Tarpon Springs Fundamental Elementary School,0,2
+280,2021/08/16,Tarpon Springs High School,1,0
+281,2021/08/16,Tarpon Springs Middle School,1,0
+282,2021/08/16,Tyrone Middle School,0,2
+283,2021/08/16,Walter Pownall Service Center,2,0
+284,2021/08/13,Academie Da Vinci,0,1
+285,2021/08/13,Administration Building,1,0
+286,2021/08/13,Athenian Academy,0,3
+287,2021/08/13,Azalea Elementary School,0,2
+288,2021/08/13,Bay Point Elementary School,0,1
+289,2021/08/13,Boca Ciega High School,0,3
+290,2021/08/13,Carwise Middle School,1,2
+291,2021/08/13,Clearwater Fundamental Middle School,0,1
+292,2021/08/13,Curlew Creek Elementary School,0,1
+293,2021/08/13,Curtis Fundamental Elementary School,0,1
+294,2021/08/13,Cypress Woods Elementary School,0,3
+295,2021/08/13,Dunedin High School,0,1
+296,2021/08/13,Fuguitt Elementary School,0,1
+297,2021/08/13,High Point Elementary School,1,0
+298,2021/08/13,Hollins High School,1,0
+299,2021/08/13,Largo High School,0,1
+300,2021/08/13,Lealman Innovation Academy,0,1
+301,2021/08/13,Lynch Elementary School,1,0
+302,2021/08/13,Madeira Beach Fundamental,0,1
+303,2021/08/13,Midtown Academy,1,0
+304,2021/08/13,Northeast High School,1,0
+305,2021/08/13,Oakhurst Elementary School,0,2
+306,2021/08/13,Osceola Fundamental High School,0,1
+307,2021/08/13,Palm Harbor University High School,0,2
+308,2021/08/13,Perkins Elementary School,0,1
+309,2021/08/13,Pinellas Academy of Math and Science,7,0
+310,2021/08/13,Pinellas Central Elementary School,1,0
+311,2021/08/13,Pinellas Park High School,1,0
+312,2021/08/13,Plato Academy Largo,3,7
+313,2021/08/13,Plato Academy Palm Harbor,0,2
+314,2021/08/13,Plato Academy Seminole,1,0
+315,2021/08/13,Safety Harbor Elementary School,0,1
+316,2021/08/13,Safety Harbor Middle School,1,0
+317,2021/08/13,Sandy Lane Elementary School,0,2
+318,2021/08/13,Seminole High School,1,2
+319,2021/08/13,St. Petersburg High School,0,1
+320,2021/08/13,Starkey Elementary School,0,1
+321,2021/08/13,Sunset Hills Elementary School,0,1
+322,2021/08/13,Tarpon Springs High School,0,1
+323,2021/08/13,Thurgood Marshall Fundamental Middle School,0,1
+324,2021/08/12,Administration Building,4,0
+325,2021/08/12,Bay Point Elementary School,0,1
+326,2021/08/12,Belcher Elementary School,1,2
+327,2021/08/12,Boca Ciega High School,0,1
+328,2021/08/12,Campbell Park Elementary School,1,0
+329,2021/08/12,Clearwater Fundamental Middle School,0,3
+330,2021/08/12,Clearwater High School,1,0
+331,2021/08/12,Countryside High School,0,1
+332,2021/08/12,Cross Bayou Elementary School,0,1
+333,2021/08/12,Curtis Fundamental Elementary School,0,2
+334,2021/08/12,Douglas Jamerson Elementary School,0,2
+335,2021/08/12,Dunedin High School,0,4
+336,2021/08/12,Dunedin Highland Middle School,1,4
+337,2021/08/12,East Lake High School,0,1
+338,2021/08/12,Eisenhower Elementary School,1,0
+339,2021/08/12,Gulfport Elementary School,1,0
+340,2021/08/12,James B. Sanderlin K-8,0,2
+341,2021/08/12,Lake St. George Elementary School,0,2
+342,2021/08/12,Lakewood High School,0,1
+343,2021/08/12,Largo Middle School,0,2
+344,2021/08/12,Leila Davis Elementary School,0,1
+345,2021/08/12,Madeira Beach Fundamental,0,1
+346,2021/08/12,McMullen-Booth Elementary School,1,1
+347,2021/08/12,Melrose Elementary School,0,1
+348,2021/08/12,Morgan Fitzgerald Middle School,0,1
+349,2021/08/12,Nina Harris ESE,0,1
+350,2021/08/12,Northwest Elementary School,0,2
+351,2021/08/12,Oak Grove Middle School,0,3
+352,2021/08/12,Oakhurst Elementary School,0,1
+353,2021/08/12,Orange Grove Elementary School,0,5
+354,2021/08/12,Osceola Fundamental High School,0,1
+355,2021/08/12,Osceola Middle School,0,1
+356,2021/08/12,Ozona Elementary School,0,1
+357,2021/08/12,Palm Harbor Middle School,0,1
+358,2021/08/12,Palm Harbor University High School,0,5
+359,2021/08/12,Pasadena Fundamental Elementary School,0,1
+360,2021/08/12,Paul B. Stephens ESE Center,1,2
+361,2021/08/12,Perkins Elementary School,0,1
+362,2021/08/12,Pinellas Park Elementary School,0,1
+363,2021/08/12,Pinellas Park High School,0,1
+364,2021/08/12,Plumb Elementary School,0,1
+365,2021/08/12,Ponce de Leon Elementary School,0,1
+366,2021/08/12,Richard L. Sanders School,1,0
+367,2021/08/12,Richard O. Jacobson Technical High School,0,2
+368,2021/08/12,Ridgecrest Elementary School,0,1
+369,2021/08/12,Sandy Lane Elementary School,1,0
+370,2021/08/12,Sawgrass Lake Elementary School,1,0
+371,2021/08/12,Seventy-Fourth Street Elementary School,0,1
+372,2021/08/12,Sexton Elementary School,1,0
+373,2021/08/12,Shore Acres Elementary School,0,1
+374,2021/08/12,Skyview Elementary School,0,2
+375,2021/08/12,Southern Oak Elementary School,0,1
+376,2021/08/12,Starkey Elementary School,0,3
+377,2021/08/12,Sunset Hills Elementary School,0,1
+378,2021/08/12,Tarpon Springs High School,1,0
+379,2021/08/12,Tomlinson Adult Education Center,1,0
+380,2021/08/12,Westgate Elementary School,1,0
+381,2021/08/12,Woodlawn Elementary School,0,1
+382,2021/08/11,Administration Building,1,0
+383,2021/08/11,Anona Elementary School,0,1
+384,2021/08/11,Azalea Middle School,1,0
+385,2021/08/11,Bardmoor Elementary School,0,4
+386,2021/08/11,Bay Point Elementary School,0,2
+387,2021/08/11,Bay Point Middle School,1,0
+388,2021/08/11,Bear Creek Elementary School,1,2
+389,2021/08/11,Belcher Elementary School,0,1
+390,2021/08/11,Brooker Creek Elementary School,1,1
+391,2021/08/11,Carwise Middle School,1,0
+392,2021/08/11,Countryside High School,0,3
+393,2021/08/11,Dunedin High School,0,4
+394,2021/08/11,Dunedin Highland Middle School,0,1
+395,2021/08/11,East Lake High School,0,2
+396,2021/08/11,Fairmount Park Elementary School,1,0
+397,2021/08/11,Frontier Elementary School,0,2
+398,2021/08/11,Fuguitt Elementary School,0,2
+399,2021/08/11,Gibbs High School,0,1
+400,2021/08/11,Gulfport Elementary School,3,0
+401,2021/08/11,High Point Elementary School,1,0
+402,2021/08/11,Highland Lakes Elementary School,0,1
+403,2021/08/11,Hollins High School,0,1
+404,2021/08/11,James B. Sanderlin K-8,0,1
+405,2021/08/11,Kings Highway Elementary School,1,0
+406,2021/08/11,Lakeview Fundamental Elementary School,1,0
+407,2021/08/11,Lakewood Elementary School,1,0
+408,2021/08/11,Lakewood High School,0,1
+409,2021/08/11,Largo High School,3,3
+410,2021/08/11,Lealman Avenue Elementary School,1,0
+411,2021/08/11,Madeira Beach Fundamental,0,1
+412,2021/08/11,Maximo Elementary School,1,0
+413,2021/08/11,Meadowlawn Middle School,1,0
+414,2021/08/11,Melrose Elementary School,0,1
+415,2021/08/11,Midtown Academy,0,1
+416,2021/08/11,Mildred Helms Elementary School,1,0
+417,2021/08/11,New Heights Elementary School,1,0
+418,2021/08/11,North Shore Elementary School,0,2
+419,2021/08/11,Northwest Elementary School,1,0
+420,2021/08/11,Oakhurst Elementary School,0,1
+421,2021/08/11,Orange Grove Elementary School,1,0
+422,2021/08/11,Osceola Middle School,0,1
+423,2021/08/11,Ozona Elementary School,0,1
+424,2021/08/11,Palm Harbor Middle School,0,1
+425,2021/08/11,Palm Harbor University High School,0,1
+426,2021/08/11,Pasadena Fundamental Elementary School,0,3
+427,2021/08/11,Perkins Elementary School,0,3
+428,2021/08/11,Pinellas Park High School,1,2
+429,2021/08/11,Pinellas Secondary School,0,1
+430,2021/08/11,Richard O. Jacobson Technical High School,0,3
+431,2021/08/11,Ridgecrest Elementary School,1,0
+432,2021/08/11,Safety Harbor Elementary School,1,0
+433,2021/08/11,San Jose Elementary School,0,1
+434,2021/08/11,Sandy Lane Elementary School,1,0
+435,2021/08/11,Sawgrass Lake Elementary School,1,0
+436,2021/08/11,Seminole Middle School,0,1
+437,2021/08/11,Seventy-Fourth Street Elementary School,0,4
+438,2021/08/11,Shore Acres Elementary School,0,2
+439,2021/08/11,St. Petersburg High School,1,2
+440,2021/08/11,Starkey Elementary School,0,1
+441,2021/08/11,Sunset Hills Elementary School,0,1
+442,2021/08/11,Tarpon Springs Elementary School,1,0
+443,2021/08/11,Tarpon Springs High School,1,2
+444,2021/08/11,Thurgood Marshall Fundamental Middle School,1,1
+445,2021/08/11,Tyrone Middle School,1,0
+446,2021/08/11,Walsingham Elementary School,0,2
+447,2021/08/11,Walter Pownall Service Center,3,0
+448,2021/08/10,Administration Building,1,0
+449,2021/08/10,Belleair Elementary School,1,0
+450,2021/08/10,Boca Ciega High School,1,1
+451,2021/08/10,Clearwater High School,1,0
+452,2021/08/10,Countryside High School,1,0
+453,2021/08/10,Curtis Fundamental Elementary School,1,0
+454,2021/08/10,Dunedin High School,2,0
+455,2021/08/10,Garrison-Jones Elementary School,1,0
+456,2021/08/10,Gulfport Elementary School,1,0
+457,2021/08/10,Lealman Avenue Elementary School,0,1
+458,2021/08/10,Marjorie Rawlings Elementary School,1,0
+459,2021/08/10,Maximo Elementary School,1,0
+460,2021/08/10,Nina Harris ESE,1,0
+461,2021/08/10,Oakhurst Elementary School,1,0
+462,2021/08/10,Osceola Fundamental High School,0,1
+463,2021/08/10,Osceola Middle School,1,0
+464,2021/08/10,Ridgecrest Elementary School,1,0
+465,2021/08/10,Southern Oak Elementary School,1,0
+466,2021/08/10,St. Petersburg High School,1,0
+467,2021/08/10,Sunset Hills Elementary School,1,0
+468,2021/08/10,Tarpon Springs Fundamental Elementary School,1,0
+469,2021/08/10,Tarpon Springs High School,1,0
+470,2021/08/10,Walter Pownall Service Center,1,0
+471,2021/08/10,Westgate Elementary School,1,0
+472,2021/08/10,Woodlawn Elementary School,0,1
+473,2021/08/09,Administration Building,5,0
+474,2021/08/09,Azalea Elementary School,1,0
+475,2021/08/09,Azalea Middle School,3,0
+476,2021/08/09,Bardmoor Elementary School,4,0
+477,2021/08/09,Bauder Elementary School,2,2
+478,2021/08/09,Bay Point Middle School,0,1
+479,2021/08/09,Bay Vista Fundamental Elementary School,0,1
+480,2021/08/09,Bayside High School,1,0
+481,2021/08/09,Bear Creek Elementary School,1,0
+482,2021/08/09,Belleair Elementary School,3,0
+483,2021/08/09,Bernice Johnson Center,2,0
+484,2021/08/09,Blanton Elementary School,2,0
+485,2021/08/09,Boca Ciega High School,1,0
+486,2021/08/09,Brooker Creek Elementary School,1,1
+487,2021/08/09,Calvin Hunsinger School,2,0
+488,2021/08/09,Carwise Middle School,4,3
+489,2021/08/09,Clearwater High School,1,0
+490,2021/08/09,Cross Bayou Elementary School,2,0
+491,2021/08/09,Curlew Creek Elementary School,1,0
+492,2021/08/09,Cypress Woods Elementary School,5,1
+493,2021/08/09,Disston Academy,2,0
+494,2021/08/09,Dunedin Elementary School,4,0
+495,2021/08/09,Dunedin High School,2,1
+496,2021/08/09,Dunedin Highland Middle School,0,2
+497,2021/08/09,East Lake High School,1,1
+498,2021/08/09,East Lake Middle School,1,0
+499,2021/08/09,Eisenhower Elementary School,1,2
+500,2021/08/09,Forest Lakes Elementary School,1,2
+501,2021/08/09,Frontier Elementary School,1,0
+502,2021/08/09,Fuguitt Elementary School,1,0
+503,2021/08/09,Garrison-Jones Elementary School,3,0
+504,2021/08/09,Gibbs High School,2,0
+505,2021/08/09,Gulfport Elementary School,1,0
+506,2021/08/09,High Point Elementary School,3,0
+507,2021/08/09,Hollins High School,2,2
+508,2021/08/09,James B. Sanderlin K-8,1,0
+509,2021/08/09,John Hopkins Middle School,1,0
+510,2021/08/09,Kings Highway Elementary School,1,0
+511,2021/08/09,Lakewood Elementary School,1,0
+512,2021/08/09,Lakewood High School,2,0
+513,2021/08/09,Largo High School,1,0
+514,2021/08/09,Lealman Innovation Academy,1,0
+515,2021/08/09,Lynch Elementary School,1,0
+516,2021/08/09,Madeira Beach Fundamental,0,3
+517,2021/08/09,Maximo Elementary School,3,0
+518,2021/08/09,McMullen-Booth Elementary School,1,1
+519,2021/08/09,Meadowlawn Middle School,0,1
+520,2021/08/09,Melrose Elementary School,3,0
+521,2021/08/09,Midtown Academy,2,0
+522,2021/08/09,Mount Vernon Elementary School,1,0
+523,2021/08/09,North Shore Elementary School,2,0
+524,2021/08/09,Northwest Elementary School,1,0
+525,2021/08/09,Oak Grove Middle School,1,0
+526,2021/08/09,Oakhurst Elementary School,0,2
+527,2021/08/09,Orange Grove Elementary School,0,1
+528,2021/08/09,Osceola Fundamental High School,2,2
+529,2021/08/09,Osceola Middle School,2,0
+530,2021/08/09,Ozona Elementary School,3,0
+531,2021/08/09,Palm Harbor Middle School,1,1
+532,2021/08/09,Palm Harbor University High School,1,6
+533,2021/08/09,Pasadena Fundamental Elementary School,1,1
+534,2021/08/09,Paul B. Stephens ESE Center,1,0
+535,2021/08/09,Perkins Elementary School,1,0
+536,2021/08/09,Pinellas Central Elementary School,1,0
+537,2021/08/09,Pinellas Gulf Coast Academy,1,0
+538,2021/08/09,Pinellas Park Elementary School,1,1
+539,2021/08/09,Pinellas Park High School,2,1
+540,2021/08/09,Pinellas Park Middle School,0,1
+541,2021/08/09,Pinellas Technical College Clearwater,1,1
+542,2021/08/09,Pinellas Technical College St. Petersburg,3,0
+543,2021/08/09,Plumb Elementary School,1,0
+544,2021/08/09,Richard L. Sanders School,1,0
+545,2021/08/09,Richard O. Jacobson Technical High School,0,1
+546,2021/08/09,Ridgecrest Elementary School,2,0
+547,2021/08/09,Safety Harbor Elementary School,1,1
+548,2021/08/09,Safety Harbor Middle School,2,0
+549,2021/08/09,Sandy Lane Elementary School,1,0
+550,2021/08/09,Seminole Elementary School,1,0
+551,2021/08/09,Seminole High School,1,0
+552,2021/08/09,Seminole Middle School,0,3
+553,2021/08/09,Sexton Elementary School,1,0
+554,2021/08/09,Shore Acres Elementary School,1,0
+555,2021/08/09,Skycrest Elementary School,3,1
+556,2021/08/09,Skyview Elementary School,1,0
+557,2021/08/09,Southern Oak Elementary School,0,1
+558,2021/08/09,St. Petersburg High School,1,0
+559,2021/08/09,Starkey Elementary School,1,2
+560,2021/08/09,Sunset Hills Elementary School,2,0
+561,2021/08/09,Sutherland Elementary School,1,2
+562,2021/08/09,Tarpon Springs Elementary School,3,1
+563,2021/08/09,Tarpon Springs High School,0,2
+564,2021/08/09,Tarpon Springs Middle School,0,1
+565,2021/08/09,Thurgood Marshall Fundamental Middle School,0,1
+566,2021/08/09,Tomlinson Adult Education Center,2,0
+567,2021/08/09,Tyrone Middle School,1,0
+568,2021/08/09,Walter Pownall Service Center,8,0
+569,2021/08/09,Westgate Elementary School,0,1
+570,2021/08/01,Administration Building,6,0
+571,2021/08/01,Anona Elementary School,1,0
+572,2021/08/01,Bauder Elementary School,2,1
+573,2021/08/01,Campbell Park Elementary School,1,0
+574,2021/08/01,Dunedin Elementary School,1,0
+575,2021/08/01,Dunedin High School,0,1
+576,2021/08/01,Frontier Elementary School,1,0
+577,2021/08/01,Lake St. George Elementary School,1,1
+578,2021/08/01,Lakewood Elementary School,1,0
+579,2021/08/01,Lakewood High School,1,0
+580,2021/08/01,Lealman Avenue Elementary School,1,0
+581,2021/08/01,Meadowlawn Middle School,1,1
+582,2021/08/01,Midtown Academy,1,0
+583,2021/08/01,Midtown Academy,1,0
+584,2021/08/01,Morgan Fitzgerald Middle School,1,0
+585,2021/08/01,Ozona Elementary School,1,0
+586,2021/08/01,Pinellas Technical College Clearwater,2,0
+587,2021/08/01,Southern Oak Elementary School,1,0
+588,2021/08/01,St. Petersburg High School,0,1
+589,2021/08/01,Sunset Hills Elementary School,1,0
+590,2021/08/01,Tarpon Springs Middle School,1,0
+591,2021/08/01,Thurgood Marshall Fundamental Middle School,1,2
+592,2021/07/26,Administration Building,4,0
+593,2021/07/26,Anona Elementary School,0,1
+594,2021/07/26,Brooker Creek Elementary School,1,0
+595,2021/07/26,Cross Bayou Elementary School,1,0
+596,2021/07/26,Dunedin High School,1,0
+597,2021/07/26,Gibbs High School,1,1
+598,2021/07/26,James B. Sanderlin K-8,1,0
+599,2021/07/26,John Hopkins Middle School,1,0
+600,2021/07/26,Madeira Beach Fundamental,0,2
+601,2021/07/26,McMullen-Booth Elementary School,1,0
+602,2021/07/26,Morgan Fitzgerald Middle School,1,0
+603,2021/07/26,Nina Harris ESE,0,1
+604,2021/07/26,Northeast High School,1,0
+605,2021/07/26,Oldsmar Elementary School,0,2
+606,2021/07/26,Pace Center for Girls,1,0
+607,2021/07/26,Perkins Elementary School,1,0
+608,2021/07/26,Pinellas Park High School,0,1
+609,2021/07/26,Richard L. Sanders School,1,0
+610,2021/07/26,Seminole High School,0,1
+611,2021/07/26,Seminole Middle School,0,1
+612,2021/07/26,Sunset Hills Elementary School,1,0
+613,2021/07/26,Thurgood Marshall Fundamental Middle School,0,1
+614,2021/07/26,Tyrone Middle School,0,1
+615,2021/07/26,Walsingham Elementary School,1,0
+616,2021/07/26,Walter Pownall Service Center,6,0
+617,2021/07/19,Blanton Elementary School,1,0
+618,2021/07/19,Calvin Hunsinger School,0,1
+619,2021/07/19,Lakewood High School,1,0
+620,2021/07/19,Leila Davis Elementary School,1,1
+621,2021/07/19,Melrose Elementary School,0,3
+622,2021/07/19,Morgan Fitzgerald Middle School,1,0
+623,2021/07/19,Northeast High School,0,1
+624,2021/07/19,Ozona Elementary School,1,0
+625,2021/07/19,Pace Center for Girls,0,1
+626,2021/07/19,Pasadena Fundamental Elementary School,0,1
+627,2021/07/19,Pinellas Technical College St. Petersburg,1,0
+628,2021/07/19,Southern Oak Elementary School,1,0
+629,2021/07/19,Tarpon Springs Middle School,1,0
+630,2021/07/19,Walter Pownall Service Center,1,0
+631,2021/07/19,Westgate Elementary School,1,0
+632,2021/07/12,Frontier Elementary School,0,1
+633,2021/07/12,Garrison-Jones Elementary School,1,0
+634,2021/07/12,Mildred Helms Elementary School,1,0
+635,2021/07/12,Paul B. Stephens ESE Center,0,1
+636,2021/07/12,Pinellas Park High School,0,1
+637,2021/07/12,Pinellas Park Middle School,0,1
+638,2021/07/12,Pinellas Technical College Clearwater,1,0
+639,2021/07/12,Seminole Middle School,1,0
+640,2021/07/12,Sexton Elementary School,1,0
+641,2021/07/12,Sutherland Elementary School,1,0
+642,2021/07/12,Walter Pownall Service Center,3,0
