@@ -39,10 +39,12 @@ import glob
 files = glob.glob('data_dump_*.csv')
 files = sorted(files, reverse=True)
 
+# Pick the data dump file from the most recent date
 data_df = pd.read_csv(files[0])
-data_df
+print('Most recent data file: ', files[0])
+
 print(data_df.columns)
-print(max(data_df['Date']))
+print('Most recent data point in the file: ', max(data_df['Date']))
 
 # %%
 #Uncomment the line below if the data have extra columns 0, 1, and 2 in the dataframe. This happens
