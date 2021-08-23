@@ -6,6 +6,7 @@ from selenium.webdriver.support.ui import WebDriverWait as WDW
 from selenium.webdriver.support import expected_conditions as EC
 import time
 import pandas as pd
+import lxml
 
 print('^^^^^^^^^^^^PCS_COVID_ScraPy is now loaded! Happy data analysis!^^^^^^^^^^^^^')
 

@@ -48,6 +48,7 @@ files = sorted(files, reverse=True)
 
 # Pick the data dump file from the most recent date
 data_df = pd.read_csv(files[0])
+<<<<<<< HEAD
 data_df['Date'] = pd.to_datetime(data_df['Date'], yearfirst=True)
 print(data_df.columns)
 print(data_df.dtypes)
@@ -57,6 +58,12 @@ last_year_df = pd.read_csv('All_Data_2020-2021.csv')
 last_year_df['Date'] = pd.to_datetime(last_year_df['Date'], yearfirst=True)
 print(last_year_df.columns)
 print(last_year_df.dtypes)
+=======
+print('Most recent data file: ', files[0])
+
+print(data_df.columns)
+print('Most recent data point in the file: ', max(data_df['Date']))
+>>>>>>> 9a97bb464a5e9bd25a150006e1f3e54708ee526c
 
 # %%
 #Uncomment the line below if the data have extra columns 0, 1, and 2 in the dataframe. This happens
