@@ -62,6 +62,9 @@ def initiate_scraping(url, driver_path):
 def click_submit_main(driver):
     driver.find_element_by_xpath('//*[@id="minibaseSubmit65979"]').click()
 
+def click_submit_olddata(driver):
+    driver.find_element_by_xpath('//*[@id="minibaseSubmit62143"]').click()
+
 
 def determine_total_pages(url, driver_path):
     '''
