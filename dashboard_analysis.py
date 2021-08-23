@@ -168,9 +168,10 @@ ax.legend(
         '2020-2021 Spring, ' + str(max(daily_cum_sum_winter2020)) + ' total cases'
         ]
 )
-ax.set_title('Cumulative cases after ' + str(length_current_year))
+ax.set_title('Cumulative cases after ' + str((length_current_year - datetime.timedelta(days=1)).days) + ' school days')
 plt.savefig('DailyCumsumComparison.png')
 plt.savefig('DailyCumsumComparison.jpg')
+plt.savefig('DailyCumsumComparison.pdf')
 
 # %% [markdown]
 # ## Focus on North Pinellas County vs. South Pinellas County
