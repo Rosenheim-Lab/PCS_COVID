@@ -47,6 +47,7 @@ files = glob.glob('data_dump_*.csv')
 files = sorted(files, reverse=True)
 
 # Pick the data dump file from the most recent date
+print(files[0])
 data_df = pd.read_csv(files[0])
 data_df['Date'] = pd.to_datetime(data_df['Date'], yearfirst=True)
 print(data_df.columns)
@@ -182,13 +183,13 @@ plt.savefig('DailyCumsumComparison.pdf')
 
 # %%
 #Use the following two lines to pick data from a single school:
-text_in_school1_name = 'Midtown'
+text_in_school1_name = 'St. Petersburg High'
 school1_df = data_df[data_df['Locations affected'].astype(str).str.contains(text_in_school1_name)].sort_values(by='Date', ascending=True)
 school1_df['Cumulative Sum Students'] = school1_df['Number of positive students'].cumsum()
 print(school1_df)
 print(school1_df.dtypes)
 
-text_in_school2_name = 'Dunedin Elementary'
+text_in_school2_name = 'Dunedin High'
 school2_df = data_df[data_df['Locations affected'].astype(str).str.contains(text_in_school2_name)].sort_values(by='Date', ascending=True)
 school2_df['Cumulative Sum Students'] = school2_df['Number of positive students'].cumsum()
 print(school2_df)
@@ -197,19 +198,23 @@ _, ax = plt.subplots(nrows=1, ncols=1)
 ax.plot(
     (school2_df['Date']),
     school2_df['Cumulative Sum Students'],
-    color='yellow', 
+    color='k', 
     mec='k',
+    markerfacecolor='yellow',
     marker='o',
-    linestyle=" ",
+    markersize=10,
+    linestyle="--",
     label=text_in_school2_name
 )
 ax.plot(
     (school1_df['Date']),
     school1_df['Cumulative Sum Students'],
-    color='lightgreen', 
+    color='k', 
     mec='k',
+    markerfacecolor='lightgreen',
     marker='o',
-    linestyle=" ",
+    markersize=10,
+    linestyle="--",
     label=text_in_school1_name
 )
 plt.xticks(rotation=30, ha='right')

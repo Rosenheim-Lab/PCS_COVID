@@ -1,18 +1,18 @@
 # ---
 # jupyter:
 #   jupytext:
-#     formats: ipynb,py:light
+#     formats: ipynb,py:percent
 #     text_representation:
 #       extension: .py
-#       format_name: light
-#       format_version: '1.5'
-#       jupytext_version: 1.11.4
+#       format_name: percent
+#       format_version: '1.3'
+#       jupytext_version: 1.11.2
 #   kernelspec:
-#     display_name: Python 3 (ipykernel)
-#     language: python
+#     display_name: Python 3.9.1 64-bit
 #     name: python3
 # ---
 
+# %% [markdown]
 # # Scrape Dashboard Data for COVID Cases 
 # ## in Pinellas County Schools
 #
@@ -22,7 +22,7 @@
 # Below, two url's are loaded as strings. The first url, `URL`, is the PCSB web page containing COVID case numbers for each school each day they are reported. This web page provides some searchability of the COVID results during the 2021-2022 school year in Pinellas County Schools. We do not need the searchability functionality of the webpage; we need the data contained in the database so that we can analyze and visualize it with pandas and matplotlib. To get the whole database, only only needs to click on the `Submit` button without any filters applied. Then the web page dynamically displays a table splayed over several pages. 
 #
 
-# +
+# %%
 #Load packages
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -38,14 +38,13 @@ URL_2020_2021 = 'https://www.pcsb.org/Page/34025'
 
 #Set driver path !!!Important - every user will have a different driver path! See readme.md for more info!
 # A = !pwd
+A = None
 if A == ['/Users/williams/Documents/NancyPy/PCS_COVID']:
     driver_path = '/Users/williams/Documents/NancyPy/PCS_COVID/chromedriver' # Nancy's machine
 else:
     driver_path = "C:/webdrivers/chromedriver.exe" # Brad's machine
 
-
-# -
-
+# %% [markdown]
 # ## Scraping the table into a df
 #
 # Once the variables are set above, we can run the wrapper function. This function is likely to throw errors such as "StaleElement" or "Driver not Found" until you:
@@ -56,9 +55,10 @@ else:
 #
 # This routine will give status updates of how many pages it is scraping and how many it has scraped.
 
+# %%
 data_dict, data_df = PCS.Scrape_data(URL, driver_path, 2)
 
-# +
+# %%
 #Verify the size the dataframe. There are approximately 25 rows per page scraped (in most cases). 
 
 #Uncomment the line below if the data have extra columns 0, 1, and 2 in the dataframe. This happens
@@ -73,7 +73,7 @@ print(data_df.shape)
 
 
 
-# +
+# %%
 #Save the datadump. If you want to save a .csv file, un-comment the last line and run this cell.
 
 today = date.today()
@@ -82,7 +82,7 @@ print(filename)
 #Uncomment the line below to save the data 
 pd.DataFrame.to_csv(data_df, filename)
 
-# +
+# %%
 #Condensed code with exception handling from Dahomey Kadera: 
 #Runs a bit slower than the PCS_COVID_ScraPy package, perhaps more dependable though.
 
@@ -158,10 +158,11 @@ for i in range(2,100):
 	  
 print(column_names)
 df.to_csv("cov_dat_Dahomey_20210817.csv")
-# -
 
+# %%
 print(df.shape)
 
+# %% [markdown]
 # ## *** Moved analysis to dashboard_analysis.py ***
 
-
+# %%
