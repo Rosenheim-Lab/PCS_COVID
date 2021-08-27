@@ -91,70 +91,70 @@ import time
 from  bs4 import BeautifulSoup
 import pandas as pd
 
-driver = webdriver.Chrome(driver_path)
-driver.get(URL)
-driver.maximize_window()
+with webdriver.Chrome(driver_path) as driver:
+    driver.get(URL)
+    driver.maximize_window()
 
-time.sleep(1)
+	time.sleep(1)
 
-date_search = driver.find_element_by_id("sw-minibasefilter65979-field-0")
-date_search.clear()
-date_search.send_keys("2021")
+	date_search = driver.find_element_by_id("sw-minibasefilter65979-field-0")
+	date_search.clear()
+	date_search.send_keys("2021")
 
-time.sleep(1)
+	time.sleep(1)
 
-submit_enter = driver.find_element_by_id("minibaseSubmit65979")
-submit_enter.click()
+	submit_enter = driver.find_element_by_id("minibaseSubmit65979")
+	submit_enter.click()
 
-def initiate_soup():
-  time.sleep(2)
-  el = driver.find_element_by_class_name("sw-flex-table")
-  return BeautifulSoup(el.get_attribute("outerHTML"), "html.parser")
+	def initiate_soup():
+	  time.sleep(2)
+	  el = driver.find_element_by_class_name("sw-flex-table")
+	  return BeautifulSoup(el.get_attribute("outerHTML"), "html.parser")
 
-column_names = []
-soup = initiate_soup()
-header = soup.find('tr')
-for th in header.find_all('th'):
-  column_names.append(th.get_text())
+	column_names = []
+	soup = initiate_soup()
+	header = soup.find('tr')
+	for th in header.find_all('th'):
+	  column_names.append(th.get_text())
 
-df = pd.DataFrame(columns = column_names)
-  
-def get_rows():
-  global df
-  soup = initiate_soup()
-  rows = soup.find_all('tr')
-  for row in rows[1: ]:
-    this_row = []
-    for td in row.find_all('td'):
-      this_row.append(td.get_text())
-    values_to_add = {}
-    for i in range(len(column_names)): 
-      values_to_add[column_names[i]] = this_row[i]
-    row_to_add = pd.Series(values_to_add, name=len(df))
-    df = df.append(row_to_add)	
+	df = pd.DataFrame(columns = column_names)
 
-get_rows()	
-	
-for i in range(2,100): 
-  x_path_go = "//li/a[@aria-label='Go to Page %s']"%(str(i))
-  x_path_skip = "//li/a[@aria-label='Skip to Page %s']"%(str(i))  
-  #print(x_path_go)
-  #print(x_path_skip)
-  try: 
-    pge = driver.find_element_by_xpath(x_path_go)
-    if pge: 
-      pge.click()
-      get_rows()
-  except: 
-    pass
-  
-  try: 
-    pge_s = driver.find_element_by_xpath(x_path_skip)
-    if pge_s: 
-      pge_s.click()
-      get_rows()
-  except: 
-    pass  
+	def get_rows():
+	  global df
+	  soup = initiate_soup()
+	  rows = soup.find_all('tr')
+	  for row in rows[1: ]:
+	    this_row = []
+	    for td in row.find_all('td'):
+	      this_row.append(td.get_text())
+	    values_to_add = {}
+	    for i in range(len(column_names)): 
+	      values_to_add[column_names[i]] = this_row[i]
+	    row_to_add = pd.Series(values_to_add, name=len(df))
+	    df = df.append(row_to_add)	
+
+	get_rows()	
+
+	for i in range(2,100): 
+	  x_path_go = "//li/a[@aria-label='Go to Page %s']"%(str(i))
+	  x_path_skip = "//li/a[@aria-label='Skip to Page %s']"%(str(i))  
+	  #print(x_path_go)
+	  #print(x_path_skip)
+	  try: 
+	    pge = driver.find_element_by_xpath(x_path_go)
+	    if pge: 
+	      pge.click()
+	      get_rows()
+	  except: 
+	    pass
+
+	  try: 
+	    pge_s = driver.find_element_by_xpath(x_path_skip)
+	    if pge_s: 
+	      pge_s.click()
+	      get_rows()
+	  except: 
+	    pass  
 	  
 print(column_names)
 df.to_csv("cov_dat_Dahomey_20210817.csv")
